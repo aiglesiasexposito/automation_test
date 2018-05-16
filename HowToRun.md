@@ -1,5 +1,3 @@
-#Alejandro Iglesias Expósito.
-#email : alexsanko@gmail.com
 
 #Build and Dependency Management Tool
 In my case, I use:
